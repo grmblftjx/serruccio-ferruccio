@@ -1,6 +1,5 @@
 +++
-title = 'bloggy'
+title = 'Il serruccio di Ferruccio'
 +++
 
-Vivir es decir "hola", y arder;
-el mundo es un prendido "adiós".
+Esto son archivos de archivo.
