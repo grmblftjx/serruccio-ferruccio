@@ -2,3 +2,15 @@ baseURL = 'http://localhost:1313/'
 languageCode = 'es'
 title = 'Il serruccio di Ferruccio'
 theme = 'hugo-book'
+enableGitInfo = false
+
+[params]
+  # (Optional, default light) Sets color theme: light, dark or auto.
+  # Theme 'auto' switches between dark and light modes based on browser/os preferences
+  BookTheme = 'auto'
+
+   # (Optional, default 'January 2, 2006') Configure the date format used on the pages
+  # - In git information
+  # - In blog posts
+  # https://gohugo.io/functions/time/format/
+  BookDateFormat = '2 January, 2006'
