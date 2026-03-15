@@ -1,3 +1,13 @@
+/* Tamaños personalizados para headers */
+.markdown h1 { font-size: clamp(2rem, 5vw, 5rem); }
+.markdown h2 { font-size: 2rem; }     /* ~32px */
+.markdown h3 { font-size: 1.5rem; }   /* ~24px */
+.markdown h4 { font-size: 1.25rem; }  /* ~20px */
+.markdown h5 { font-size: 1.125rem; } /* ~18px */
+.markdown h6 { font-size: 1rem; }     /* ~16px */
+
+
+/* Espacio entre bloques de texto y headers */
 .markdown p {
   margin-bottom: 1.2em;
 }
@@ -26,11 +36,12 @@
   margin: 1.5em 0;
 }
 
+
+/* Alineación de bloques de texto */
 .markdown p {
   text-align: justify;
   hyphens: auto;
 }
-
 
 .text-right-block {
   text-align: right;
