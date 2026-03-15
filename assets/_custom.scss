@@ -1,4 +1,32 @@
 .markdown p {
+  margin-bottom: 1.2em;
+}
+
+.markdown h1,
+.markdown h2,
+.markdown h3,
+.markdown h4,
+.markdown h5,
+.markdown h6 {
+  margin-top: 2em;
+  margin-bottom: 0.6em;
+}
+
+.markdown h2 + h3,
+.markdown h3 + h4 {
+  margin-top: 1em;
+}
+
+.markdown ul,
+.markdown ol {
+  margin-bottom: 1.2em;
+}
+
+.markdown blockquote {
+  margin: 1.5em 0;
+}
+
+.markdown p {
   text-align: justify;
   hyphens: auto;
 }
