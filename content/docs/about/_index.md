@@ -19,7 +19,7 @@ Licencia de los contenidos del sitio: [![License: CC BY-NC-SA 4.0](https://licen
 Almacenado en: https://github.com/grmblftjx/serruccio-ferruccio\
 Motor: Hugo\
 Plantilla: Hugo Book\
-Desplegado con: Vercel\
+Desplegado con: Vercel
 
 Contacto @Wikipedia: Tiperitinos\
 Contacto @gmail.com: tiperitinos
