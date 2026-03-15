@@ -1,15 +1,15 @@
-<ul>
+<ol>
   {{ range .Page.Pages.ByWeight }}
     <li>{{ .Title }}</li>
   {{ end }}
 
   {{ range .Page.Sections.ByWeight }}
     <li>{{ .Title }}
-      <ul>
+      <ol>
         {{ range .Pages.ByWeight }}
           <li>{{ .Title }}</li>
         {{ end }}
-      </ul>
+      </ol>
     </li>
   {{ end }}
-</ul>
+</ol>
