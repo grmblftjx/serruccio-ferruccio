@@ -2,7 +2,7 @@
 title = 'Referencia'
 date = 2026-03-15
 draft = false
-weight: 3
+weight = 3
 +++
 
 {{< center >}}
