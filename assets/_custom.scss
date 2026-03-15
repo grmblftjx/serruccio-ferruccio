@@ -56,3 +56,33 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+
+/*
+   Listas con guion largo
+   */
+
+.markdown ul {
+  list-style-type: none; /* quita el bullet estándar */
+  padding-left: 1.5em;   /* mantiene la indentación */
+  margin-bottom: 1em;    /* espacio debajo de la lista */
+}
+
+
+.markdown ul li::marker {
+  content: "—";         /* guion largo */
+  color: inherit;        /* mismo color que el texto */
+  font-weight: normal;   /* opcional: normal en vez de bold */
+  font-size: 1em;        /* tamaño relativo al texto */
+}
+
+
+.markdown ul li {
+  margin-bottom: 0.5em;  /* separación entre líneas */
+}
+
+
+.markdown ul ul li::marker {
+  content: "- ";          /* guion corto para sublistas */
+  font-size: 0.9em;
+}
