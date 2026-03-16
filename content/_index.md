@@ -5,5 +5,5 @@ title = 'Il serruccio di Ferruccio'
 {{< space-title >}}
 
 {{< center >}}
-  <span style="font-size:60px; display:inline-block;">🪚</span>
+   <div style="font-size:15rem; line-height:1;">🪚</div>
 {{< /center >}}
