@@ -19,3 +19,5 @@ enableGitInfo = false
   [markup.goldmark]
     [markup.goldmark.parser]
       attribute = true
+    [markup.goldmark.renderer]
+      unsafe = true
