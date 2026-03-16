@@ -8,7 +8,7 @@ title = 'Il serruccio di Ferruccio'
 
 <div style="display:table; width:100%;">
   <div style="display:table-cell; vertical-align:middle; text-align:center;">
-     <span transform:scale(28);">🪚</span>
+     <span style="transform:scale(28);">🪚</span>
   </div>
 </div>
   
