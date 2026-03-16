@@ -3,7 +3,7 @@ title = 'Il serruccio di Ferruccio'
 bookToC = true
 +++
 
-{{ < space-title > }}
-{{ < center > }}
+{{< space-title >}}
+{{< center >}}
 # 🪚
-{{ < /center > }}
+{{< /center >}}
