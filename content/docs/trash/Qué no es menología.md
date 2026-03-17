@@ -13,7 +13,7 @@ weight = 2
 
 {{< space-title >}}
 
-## ~Platón
+### ~Platón
 
 No es dialéctica (platónica). El dialéctico, según Platón, es el intelectual capaz de hacer acopio de ejemplos que le sirven de apoyo para elevarse hasta el concepto general que los subsume, así como de partir del concepto general para deducir toda la serie de ejemplos subsumidos a él. En este sentido, la dialéctica platónica no puede asimilarse con la menología, a no ser que podamos abarcar la semántica absorbente del concepto platónico en la semántica expelente del excremento.
 
@@ -35,7 +35,7 @@ Foto: Justo García Añón, 2017
 {{< /center >}}
 
 
-## ~San Juan
+### ~San Juan
 
 No es escatología (religiosa). Hay algo en la noción metafísica de un «más allá» que se antoja menológico. Esa dulce posibilidad de estrujar epagógicamente todos los eventos mundanos para obtener, de esta infinidad, la infinitesimal esencia de un concepto cuya realidad se sitúa ya en otro plano… Maldecimos a Platón por no haber concebido una filosofía que ordeñe. (Recordemos que en la civilización que iluminó al «Divino Platón» había también muchas campesinas se llenaban la cérvix de abono como medida anticonceptiva. Hasta las ordeñadoras eran más menológicas que él.) Pero no desesperemos: vayamos más allá, más al norte, hasta toparnos con ese sobrante heleno que fue el reino de Macedonia. El heredero bastardo de Platón, nacido allí, tuvo mucho mejor ojo para todo el tema del resto —concibió que incluso el esperma se generaba a partir de sobras residuales del proceso digestivo, emparentando la generación con la defecación (Aristóteles, _Reproducción de los animales_, 726b)—, tal vez por haber sido él mismo un resto dentro de Atenas: en el 347 a.C., Aristóteles, el mejor alumno de la Academia, fue desplazado en la dirección de la escuela por el sobrinito de Platón, y aprovechó para salir por patas de la Hélade, donde los extranjeros macedonios cada vez eran peor vistos. No obstante, quien merece verdadera loanza en todo este asunto sería el tal Andrónico de Rodas que, siglos más tarde, ordenó y editó los apuntes del filósofo macedonio, dividiendo un taco bien curioso entre los que hablaban «sobre la naturaleza» (_Physiká_) y los que quedaban «a parte de» (_Metá_) los primeros, bautizando con esta segregación la noble ciencia de la metafísica en tanto que un «sobrante» respecto de la física; como este hecho editorial seguramente sea una leyenda (Takatura Ando, _Metaphysics. A Critical Survey of its Meaning_), sin embargo, el mérito y la loa debería llevárselos quien se la inventase por primera vez.
 
@@ -57,7 +57,7 @@ Sólo esta tierra sabe lo que le debemos a la furibunda escatología de los abra
 Foto: Grzesiek Mordalski, 2012
 {{< /center >}}
 
-## ~Hegel
+### ~Hegel
 
 No es dialéctica positiva (hegeliana). Si Platón, como inventor de la «glándula ontológica», podría aspirar a ser letrinero y escobilla con honores metafísicos, Hegel solo podría presumir, como mucho, de trabajar con los despojos sin mancharse las manos, a modo de gestor de una planta depuradora. Hegel-tratante-de-residuos es responsable de la resurrección civilizada de la dialéctica, cosa que no fuera posible sin un apropiado embalsamamiento. La dialéctica platónica cubierta por la santa síndone del absoluto, hamburguesa holótica cuyo pan camufla las tijeras de la _diaíresis_, es convertida por Hegel en un subproducto filosófico perfectamente comercializable en el _emporion_ del modernismo. Hegel no llegó a menólogo, pero podrá enorgullecerse de llegar a ser especial objeto de estudio de la disciplina, ya que pocas veces se observa en el plano filosófico de los conceptos que el cadáver de una noción sea procesado para convertirse en objeto de consumo intelectual. Haber reducido la putrefacta dialéctica platónica a una esencia espiritual absoluta y, encima, progresiva es toda una proeza en la modalidad de muñir _delulus_, equivalente a fabricar un ferrocarril con mármol en el plano de la ingeniería.
 
@@ -80,21 +80,21 @@ Imagen: Producción propia, 2025
 {{< /center >}}
 
 
-## ~Marx
+### ~Marx
 
 No es dialéctica materialista (marxiana).
 
 Mantiene la producción y la elevación. Propulsión desde abajo, como un cohete, en lugar de desde arriba. Proletariado: resto-sin-resto, paria totalitario, figura abyecta entronizada. Denuncia el pléroma mercantil.
 
-## ~ Escuela de Frankfurt
+### ~ Escuela de Frankfurt
 
 No es dialéctica negativa (frankfurtiana)+
 
-## ~ Postestructuralismo
+### ~ Postestructuralismo
 
 No es postestructuralismo
 
-## Dialéctica preplatónica: Mileto, Éfeso, Samos, Elea y Atenas
+### Dialéctica preplatónica: Mileto, Éfeso, Samos, Elea y Atenas
 
 «La sentencia de Anaximandro» mete la cabeza por el culo, «conforme al orden del tiempo».
 
