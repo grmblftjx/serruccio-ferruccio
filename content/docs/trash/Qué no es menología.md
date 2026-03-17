@@ -70,7 +70,7 @@ Si algún hegeliano, en algún momento, fuese capaz de sacar su melón de este m
 Hegel hizo más por la menología que toda la escatología dogmática.
 (DALL-E)
 Imagen: Producción propia, 2025
-{{< center >}}
+{{< /center >}}
 
 
 ## ~Marx
