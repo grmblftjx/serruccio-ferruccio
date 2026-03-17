@@ -25,6 +25,9 @@ Queda, por tanto, la otra posibilidad: que el dialéctico sea un menólogo porqu
 
 Aquí nos encontramos, no obstante, con un problema crítico de la dialéctica filosófica, sin embargo salvado por la menología: la ambición de exhaustividad. El resto, o la diferencia, aritméticamente significados, como acabamos de hacer, suponen un todo, una completud: un pléroma. La escuela buenista procede rápidamente a eyacular ante el postulado holótico asumido de un «todo» al que se le pueden sustraer o agregar partes diferenciadas; y, con este gesto orgásmico, se refuta a sí misma al excretar de su cuerpo una sustancia que deja de ser «parte» de su «todo» (cuerpo) y se diferencia de este, sin por ello pasar a ser un «todo-2» completo y diferenciado del anterior (cuerpo, el que optaría a ser el «todo-1»). Nos arrancamos contra la ilusión holótica de una realidad (cualquier realidad) concebida como un todo partes extra partes, construible por adición o sustracción aritmética. Las diferenciaciones o distinciones diairéticas, las «segregaciones» oficiales platónicas, no funcionan sino invocando ese todo completo: completado por las diferentes partes que lo conforman, por synagogé (el exacto contrario y correlato de la diaíresis: la reunión, la composición, la articulación). La menología postula, en cambio, una segregación sin holotización, una glándula sin pléroma, una diaíresis sin synagogé, una extracción sin recomposición. Solo de esta manera se alcanza el resto de la menología, ese excedente al todo dado que lo supera y lo rebasa, llevándolo consigo más allá de sí mismo.
 
+
+
+
 {{< center >}}
 ![durum-cacantes](https://github.com/user-attachments/assets/21a3085c-a4c1-4051-a3cd-46c981935751)
 Graffiti de Tales junto a su famosa máxima menológica (durum cacantes…).
@@ -45,6 +48,9 @@ No obstante… ¡ay! El resto permanece, incluso a costa de Dios, de su Cordero 
 
 En resumidas cuentas: si la escatología joánica no soñase con un genocidio tan definitivo; si su fuego no aspirase a terminar, de una vez con todas, con la impureza, la malicia, la falsedad (y los perros); si los santos habitantes de la Nueva Jerusalén fabricasen, aunque fuese, jabón con las cenizas de los eternos renegados… ¡tal vez pudiera entrar la escatología en el Reino de la Menología! Su material poético, su nostalgia y su rabia, son desde luego ruinosas; su alma, sin embargo, no lo es. El Apocalipsis es una ruina santificada, apartada, conservada: un museo de psicohistoria. Al refundar el Nuevo Mundo desde cero, al suspender la Nueva Jerusalén por los aires sin permitirla que vuelva a enraizar en la vieja tierra quemada, al proclamar al mismo tiempo un pereat mundis que no aspira a menos que ser definitivo, la disciplina apocalíptica —e igual que ella, evidentemente, todo proyecto genocida, penal y totalitario— demuestra pertecer hasta la médula a este mundo, y estar dispuesta a desaparecer con él. La menología, como recordaba Tomás de Aquino (ST, suplemento, 94, 1), verá a los escatólogos y mesianistas penar por cada mundo que ha de ser abandonado, mientras solamente ella está lista para ser salvada en el mundo siguiente… y así será, sucesivas veces.
 
+
+
+
 {{< center >}}
 ![termica belchatow](https://github.com/user-attachments/assets/722d7b54-d687-4c34-8298-d27a334bc59b)
 Sólo esta tierra sabe lo que le debemos a la furibunda escatología de los abrahámicos: cenizas.
@@ -63,6 +69,8 @@ Todo lo que tiene Hegel de menólogico es empírico y necromántico. Luce flaman
 La dialéctica aspira, además, a una cierta elevación, y aquí demuestra su deuda relativa con la escatología cristiana. En cada paso de despliegue dialéctico del pléroma, la cosa asciende un poco más: fenómeno extraño, porque los gases de la carne en descomposición suelen pesar más que el aire. Pero sin duda ocurre que, igual que Hegel quiere ver a la lechuza de Minerva hecha un Ecce Homo, también quiere ver la Nueva Jerusalén anclada en esta tierra. Es así que obtiene el efecto especial asombroso de que la realidad «parece elevarse» a través de sus métodos de raciocinamiento, porque ha amarrado la realidad real (aquella en la que Hegel hace morcillas de espíritu y callos metafísicos en un despacho de Berlín) a la imposible ciudad flotante. Para el propio Hegel, su mente no se lo podría estar diciendo más claro, y hasta debe notar su voz interior como si fuese un gorrino chillante: «Este mundo está pidiendo que yo lo haga picadillo». Los miembros de los buenistas vuelven a eyacular ante semejantes evocaciones de la «trituración», antes de acabar estos mismos triturados también. Pero Hegel queda retratado, evidentemente, como menológicamente empírico: gran traficante de restos y todo un somelier de la casquería, pero con el único proyecto en mente de hacernos beber a todos su cocido de agonía metafísica lleno de tropezones dialécticos.
 
 Si algún hegeliano, en algún momento, fuese capaz de sacar su melón de este mejunje, y con los morros todavía barnizados del brebaje de imbecilidad fuese remotamente capaz de vislumbrar la posibilidad teórica de una menología seria; si fuese capaz de ello, entonces tal vez desease que esos tropezones de su sinvivir gastronómico, a los que todavía llama «momentos» del «todo», fuesen algo equiparable a un verdadero resto, fuesen verdaderas sobras. Pero el apetito de un hegeliano es inmenso, y antes se sorprenderá a sí mismo dispuesto a sorber sus propias heces y rebañarse el culo con pan que dejará algo de realidad para el siguiente.
+
+
 
 
 {{< center >}}
