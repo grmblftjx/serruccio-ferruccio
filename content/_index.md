@@ -3,6 +3,8 @@ title = 'Il serruccio di Ferruccio'
 +++
 
 {{< space-title >}}
+{{< space-title >}}
+{{< space-title >}}
 
 {{< center >}}
 <div style="display:table; width:100%; height:300px;">
