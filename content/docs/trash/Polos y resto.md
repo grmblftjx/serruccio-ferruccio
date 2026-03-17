@@ -2,6 +2,7 @@
 title = 'Polos y resto'
 date = 2026-03-13
 draft = false
+weight = 1
 +++ 
 
 {{< space-title >}}
