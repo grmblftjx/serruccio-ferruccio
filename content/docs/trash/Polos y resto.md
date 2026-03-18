@@ -13,13 +13,21 @@ weight = 1
 
 {{< space-title >}}
 
-## 1. Prioridad del resto
-## 2. Los restos de la metafísica
-## 3. Residuo y delito
 
 {{< space-title >}}
+## 0. Viuda de Desenladrilladores, e hijos
 
-¿Existe algo fuera de la polaridad? Me refiero a una cuestión vieja, tan vieja como la dialéctica, como las barbas de Heráclito y como la lechuza de Hegel. Tan "vieja" como Gustavo Bueno, resquiecat inter vermes (y no me refiero a la FGB), y su pensar-contra.
+La realidad ha sido estructurada de muchas maneras. Quien escribe esto, y seguramente también quien lo lee, forma parte de una larga tradición de estructuradores, y está montado en la punta de una flecha imparable cuya estela parece no tener comienzo. Infinita parece esta tradición de estructuradores a la que pertenecemos: infinita, como se muestran las cosas que han sido alimentadas con el peso de la necesidad. ¿Hay algo que se escape a esta estructuración? Este es nuestro eón, el eón del cielo: hemos visto el cielo, y lo hemos enladrillado. ¿Alguien se sorprende todavía de que las células vivan en celdas, y de que un alma siempre habite en un convento? Nosotros somos los estructuradores, esta es nuestra estirpe. ¿Cuánto tiempo lleva esa estructura en el cielo? —_¿De qué cielo hablas?_
+
+La tradición de la estructuración se profundiza infinitamente en las entrañas del pasado. Los más miopes la vemos comenzar en la Grecia de los leones, la antigua. Platón, pequeño león para una miopía infinita. Vamos a darlo por bueno, en honor a la miopía: todo empezó con Platón. El cachorro de león nació en la madriguera, y un día empezó a removerse, un poco más que otros días. De pronto... ¡Qué era eso! ¡Cuánta luminosidad! Los brazos de la luz corrieron sus párpados como dos cortinas, y sus ojos se convirtieron en espejos. Algo más fuerte que el amor y que la noche lo alcanzó. E incluso en ese momento suyo, de gran vulnerabilidad y desquicio, Platón mantuvo la honda convicción de que seguía en la madriguera. Aunque su cara quemase más que una fiebre, aunque sus ojos ardiesen más que un rayo. Ahí estaba la raíz, igual que la raíz de la madriguera; ahí estaba también el gusano, y el barro y las gotitas de humedad. Todo aquello seguía siendo madriguera, aunque se mostrase bajo ese efectismo de lanzallamas. Y así fue como la madriguera comenzó a extenderse... El barro de la madriguera se convirtió en loza, en vasija, en ladrillo, las raíces en viga y en techumbre, los leones en gusano. Eso era todo: todo lo que había en la madriguera, en esa celda para células, en ese convento de leones. Así empezó la estructuración de la realidad.
+
+Platón dijo: "fuego", y el fuego cobró nombre. Un muro se construyó en torno a él: quedó enladrillado. Dijo "raíz", dijo "gusano", y la madriguera, la celda de barro, se fue extendiendo. Platón apuntó lo sucedido. Así empezó a estructurarse la realidad, según los más miopes. No vamos a cavar más profundo por ahora: asumamos que no hay nada más que esa madriguera de leones, que todo viene de allá. El cielo está enladrillado. —_¿Qué cielo?_ El cielo de la madriguera. ¿Oyes voces? —_Sí._ Son las voces de la madriguera. Todo cabe en la estructura. —_¿Entonces no hay cielo?_ El cielo de la madriguera, sí. Somos los estructuradores, esta es nuestra estirpe: Platón, Hegel, tú y yo, leones de madriguera.
+
+Esta mentira no se sostiene por ningún lado. Claro que el cielo no está enladrillado. Claro que alguien llamó a la policía. —_Salven a los cachorros, se han quedado atrapados._ Hemos visto las mazas y las bolas de demolición. Hemos visto caer el cielo a pedazos, hemos visto arder el cielo, hemos vivido. Hemos abierto la realidad a base de golpes. Hemos salido de la madriguera a ladrillazos, hemos recorrido el mundo hasta su confín opuesto, hemos descubierto el polo. Bajo un solo cielo, dos polos. Nosotros, los estructuradores, hemos descubierto los polos.
+
+
+
+¿Existe algo fuera de la polaridad? Me refiero a una cuestión vieja, tan vieja como la dialéctica, como las barbas de Heráclito y como la lechuza de Hegel. Tan "vieja" como Gustavo Bueno, _resquiecat inter vermes_ (no hablo de la FGB), y su pensar-contra.
 
 Lo Uno ya fue derrocado, Dios ya murió. La lucha y la oposición se suceden desde entonces, con el mismo ímpetu y violencia con que lo habían hecho anteriormente —pues las fuerzas son las mismas—, pero con una diferencia: ahora no hay un para qué de las luchas más allá de esas luchas. Ahora hay luchas entre para-qués. El conflicto, de ser un medio para algún fin, ha pasado a ser un fin en sí mismo. Sin duda, Ello es la lucha.
 
@@ -37,6 +45,11 @@ Todo esto al final quiere decir: la realidad es reducible, como máximo, a dos, 
 
 Diferencia con la dialéctica hegeliana: racional (articulativa), superadora (Aufhebung unificadora en la síntesis). Ahora, dialéctica suspendida: irracional (vs racional; inarticulable, ambivalente, antilogísmica, contradictoria), demoledora o trituradora (pero debida a lo irreductible: el resto, el remanente). El Aufhebung, la sublimación, impuso una determinada relación entre abolir, preservar y trascender (suprimir-salvar-superar). Este triple encaje ya es Aufhebung: el conflicto entre abolir y preservar se supera en el superar. Pero en la dialéctica suspendida, en la lucha polar, no hay superación. Cada polo busca salvarse y suprimir al otro, mutuamente; nunca uno suprime del todo el otro, y ahí queda el resto. No hay superación, solo salvación o preservación del resto respecto de la abolición o supresión ajena. Hegel era todavía moderno, todavía ilustrado: todavía avanzadilla, todavía marcha triunfal. La ilustración era, aún todavía, un polo dialéctico. Luchaba contra la superstición medieval, de la que pretendía no dejar ni un solo resto (ilusión de sobras desenmascarada por la escuela de Frankfurt). Pero luchaba, especialmente, contra el futuro: como tiempo vacío en el porvenir, quería imponerle sus fuerzas formativas intelectuales, quería superarse.
 
+
+
+## 1. Prioridad del resto
+
+
 El resto es lo que hace que la lucha continúe. En aniquilación completa, la lucha cesaría. Pero toda faceta vive de la otra, toda conserva algo de la otra en sí, toda mantiene de alguna manera "viva" a la otra. La lucha de clases tiene lugar porque el esclavo no sucumbe completamente, sino que aún queda algo de él en él; también quedan hoy restos de señores, lo sabía Nietzsche... El yin y el yan lo expresan a la perfección. Queda algo de verano en los tubérculos solanáceos enterrados durante el invierno; queda algo de invierno en aquello más curado y conservado en las profundas grutas glaciares. Lo que llamamos memoria no es más que la pervivencia de algún resto (Cratilo, 437b), que permite resucitar aquello que ya se ha extinguido. El petróleo y el tubérculo son ejemplos de esa memoria estival que opera por absorción o concentración térmica; la criogenización y otras técnicas de conservación, lo son de la memoria invernal que opera por expulsión o difusión térmica.
 
 Historia como dialéctica suspendida: la destrucción creativa. "Ser para la muerte" del trabajador, y, al mismo tiempo, aparición del excedente, del plusvalor, de un extra que es un resto. La sobreproducción inherente al trabajo se encarna en una sobrereproducción, en el excedente humano de la fecundidad. El sentido de los sacrificios humanos siempre ha sido intentar reunir la fecundidad extraordinaria (e, incluso, materialmente sostenible) con la muerte destinal, manifestar la identidad del extra con el resto.
@@ -46,6 +59,10 @@ Mucho antes del trabajo: el sujeto se dirige al mundo para devorarlo, triturarlo
 Es cierto que la metafísica del resto es heredera, de algún modo, de la metafísica de la plenitud, ya que no se puede entender el resto sin el todo. Aún en este sentido, el resto es un paso dialéctico respecto del todo, y de alguna manera es asumible que el resto no hubiera existido sin el todo del cual se ha desprendido, al menos en concepto. Pero una metafísica del resto no se dirige hacia el resto como si este fuera una mera negación del todo (el resto como algo que "ya no es todo", como anti-potencia, como defecto parcial; la excreción innecesaria respecto de la cual el todo sustancial, precisamente, se distingue), sino que vislumbra el resto como la palanca ontológica de una nueva cosmovisión no fundacional, una abertura en el intento de cierre, un ensō inacabado. Se trata de concebir el mundo como un derrumbe o desmoronamiento.
 
 Aquí se encuentra a la vista la necesaria complementariedad (técnicamente se le suele llamar "colateralidad") que la metafísica del resto mantiene con la metafísica del éxito. Desde un punto genéricamente consecuencialista, éxito y resto comparten el estatus de resultado o producto de la acción, siendo el éxito deudor de la metafísica de la plenitud (en un estado crecientemente inflacionario, además: ya no basta con conseguir algo, ahora ese conseguir debe ser tu vida, y el éxito como plenitud o completitud de un proyecto debe ser vivido como la plenitud o cumpletitud en general) y el resto su fiel escudero. Al clímax del orgasmo siempre acompaña un remanente de desperdicios, que en ufanos casos se encarnan en un excedente vital autónomo.
+
+
+
+## 2. Los restos de la metafísica
 
 Filosofo es hoy un costurero. Remendar los andrajos de la libertad, el mundo hecho pedazos (Fichte), con el hilo de la necesidad. deber en kant, felicidad en Bentham, necesidades en Marx, fuerza en nietzsche, capacidades en Nussbaum... se trata de embridar la libertad, de amarrarla a alguna estaca, de aprovechar los restos en un nuevo "todo".
 
@@ -74,6 +91,10 @@ De entre todas las decadencias que se pueden reprochar a la contemporaneidad, ha
 Hay que tomar por aquí una cuestión de antropología histórica fundamental, quizá de las que más, al menos desde que existe el "progreso": el Cuñado, en su sentido más profundo. Quien queda irónicamente atrás en el tiempo, pero aún vive: el resto de vieja vida en el jardín de la nueva vida, el putrescente ser salvado al borde de la muerte que reside entre los perfectos en el reino de los cielos.
 
 El reciclaje es la forma constitutiva de la realidad, el Lógos y la Díke que integra el tiempo, y ya nos encontramos a la altura de admitirlo. (Es, efectivamente, la realización efectiva de la doctrina del eterno retorno.) Reciclar no es realizar ninguna operación particular: no es seleccionar y clasificar residuos, ni hacer manualidades caseras, ni construir una obra de arte con recipientes plásticos utilizados; reciclar es "el juego al que ya siempre se juega". Toda obra de arte está hecha de desechos, todo lo que se clasifica y selecciona son desperdicios, y esto es verdad esencialmente, es decir, homeoméricamente y espermáticamente (en sentido anaxagoriano). Hágase, pues, el eterno retorno de lo mismo.
+
+
+
+## 3. Residuo y delito
 
 La proliferación de identidades opera como un verdadero genocidio del resto. La sociedad postmoderna de las "pequeñas diferencias" ha sido completamente capturada por la metafísica de la limpieza a través del juego de las identidades. La identidad opera como un paisaje de funciones: a cada individuo, le corresponde una o varias identidades. El individuo se agota en sus identidades, y lo que queda fuera es inexistente. Habría que buscarse el Bloom: ese resto de la identidad.
 
