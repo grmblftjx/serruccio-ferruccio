@@ -1,8 +1,9 @@
 
 +++
-title = 'Trash'
+title = 'Resto'
 date = 2026-03-15
 draft = false
+weight = 2
 +++
 
 {{< center >}}
