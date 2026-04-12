@@ -2,7 +2,7 @@
 title = 'Qué no es menología'
 date = 2026-03-17
 draft = false
-weight = 2
+weight = 3
 +++ 
 
 {{< space-title >}}
