@@ -3,7 +3,7 @@ title = 'Desontología. Una respuesta a Ontología mínima'
 date = 2026-04-13
 draft = false
 weight = 2
-+++ 
++++
 
 {{< space-title >}}
 
