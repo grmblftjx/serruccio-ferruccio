@@ -185,5 +185,8 @@ horor corporal es el horror de la mutabilidad aterrorizante
 del cuerpo, su pura materialidad carnal.»
 Mark Fisher. "Flatlines"
 
+«Y los hechos, el desecho»
+La URSS, "En verdad", _+_ (2022)
+
 
 
