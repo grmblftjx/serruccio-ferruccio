@@ -85,6 +85,24 @@ Hay algo profundamente sincero, es decir, profundamente verdadero en decir: "el 
 
 La religión, en un sentido antropológico, tal vez pueda entenderse como un resto. No un resto psíquico, traumático, como lo hace el psicoanálisis, sino como un resto mucho más complejo, el resto más complejo de todos, el resto artístico: el arte del resto, y no el resto del arte (eso explicaría, de paso, el valor artístico de los objetos històricos cultuales, y el carácter religioso de la contemplación artística: el aura, en definitiva). El excedente producido, en todas las sociedades, se dedica a la producción de un mundo virtual: excedente alimenticio y vital en sacrificios, excedente poblacional en la casta célibe, excedente de riquezas en tesoros, excedente de tiempo en los rituales, excedente de saber en los dogmas, excedente de habilidad en objetos artísticos con valor cultual. Dios no es solamente un producto del hombre: es su excedente, sus sobras. La separación sectaria de este excedente respecto del núcleo social dio lugar a la sabiduría en sí fuera de la sociedad, y a partir de aquí a la filosofía.
 
+    (San Husaín y el cafre. La retórica del demonio
+
+    Julián Marías: la «inminencia eludida» del problema de Dios en el existencialismo (_San Anselmo y el insensato, y otros estudios de filosofía_. Madrid: Revista de Occidente, 1944).
+    
+    Pecado eterno o de muerte (_Catecismo de la Iglesia Católica_, §1864, 1997).
+    
+    Samuel Huntington: redención de la humanidad por el relativismo. La cultura como espíritu (G.Bueno) o como demiurgo.
+    
+    https://youtu.be/9y_7968v_lQ
+    
+    Victoria cultural de la izquierda. Triunfo lógico y retórico. Falta vehemencia (Gustavo Bueno). España, país racional: vota a  izquierda. ¿Ultrarracional?
+    
+    Exaltación del cafre. "Derecha punk": lema de la Revista Centinela, fundada por el think tank de la baronesa Margaret Thatcher _New Direction_ (2009). Neocon: oposición a la integración DEI. "Sacreligión", o religión del sacrilegio (profanación del culto), reunión del trono y del altar. Iglesia al servicio del Estado.
+    
+    Vigencia del universalismo. Catolicismo y universalidad. La palabra del Islam, una "palabra común" (كلمة سواء), 2007. La _salam_ religiosa.
+    
+    San Husaín Labrass, morabito de la paz.)
+
 Mirada narcisista: suprime el mundo, se suprime a sí, revela la nada (vanidad, nihilismo). Única mirada que permite la todología, impolar, pero que se suprime al convertirse en polo a través del reflejo de sí, de la reflexión. La reflexión aniquila la mirada narcisista del "todo" sobre el "todo" (¿qué fue primero: el narcisista o el mundo?, o la realidad como reflejo).
 
 (El incómodo reino de la historia. / Los que la describen: Hegel, Marx, Darwin, Nietzsche. / Los que la cabalgan: Lenin, Hitler, Trump. / Los que la suspenden: Fukuyama, Benedicto XVI y Sayyid Qutb. / La nostalgia y la marcha atrás. El arrebato y el más allá.)
