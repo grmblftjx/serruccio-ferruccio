@@ -129,7 +129,12 @@ La proliferación de identidades opera como un verdadero genocidio del resto. La
 Metafísica de la plenitud (antigua, platónica), donde la existencia es completa y finita, y todo "más" se añade al "ya es"; de ahí el problema del cambio en los presocráticos, y la solución (literalmente: cualquier cosa se disuelve en el todo como un azucarillo) heraclitoparmenídea.
 Metafísica de la limpieza (moderna, cristiana), donde nihil se vuelve posible, e incluso potencia divina (desde la teología negativa): nihil fue, de él proviene el ser, y volverá, pues Dios convoca diluvio, exterminio o Fin de los Tiempos. El "más" debe ser periódicamente erradicado, de acuerdo con la tradición hebraica (y quizá sumeria), y así lo resuelven los proyectos genocidas contemporáneos.
 La metafísica del resto se opone a ambas.
-        
+
+La metafísica del brillo y de la pulcritud afirma: _detrita incognita_, los residuos son desconocidos, y lo desconocido es solo un resto, una _sombra_... _voi-là, Platon !_ La metafísica del resto responde: _detrita cognita_, los residuos son conocidos; los conocimientos son residuos. Es evidente que la agnotología (la ciencia de la producción de la ignorancia) se practica al son de la gnoseología (la ciencia de la producción del conocimiento); debiera, aún más, inaugurarse de una vez la _gnotología_, una visión del mismo conocimiento como entidad residual, concibiéndose al fin y al cabo tanto la sombra como la luz en términos de subproducto.
+
+
+
+
 
 Fourier. Teoria de los cuatro movimientos, Primera parte
 «Las sociedades mixtas, como la rusa y la china, poseen as propiedades de los animales mixtos, como el mulo. Tienen más vicios y, sin embargo, más vigor que las sociedades originales de las que poseen
