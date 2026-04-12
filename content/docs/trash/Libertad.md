@@ -2,7 +2,7 @@
 title = 'La paradoja práctica de la libertad'
 date = 2026-04-13
 draft = false
-weight = 3
+weight = 4
 +++ 
 
 {{< space-title >}}
