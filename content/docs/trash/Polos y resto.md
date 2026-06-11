@@ -15,6 +15,11 @@ weight = 1
 
 
 {{< space-title >}}
+
+Este escrito es una porción de algo más grande: un intento de una izquierda antiplatónica y antimaniquea, de una izquierda, si se quiere, aristotélica o algo por el estilo. Básicamente, se trata de engendrar un mundo abierto, verdadera y sobre todo __realmente__ abierto.
+
+
+
 ## 0. Viuda de Desenladrilladores, e hijos
 
 La realidad ha sido estructurada de muchas maneras. Quien escribe esto, y seguramente también quien lo lee, forma parte de una larga tradición de estructuradores, y está montado en la punta de una flecha imparable cuya estela parece no tener comienzo. Infinita parece esta tradición de estructuradores a la que pertenecemos: infinita, como se muestran las cosas que han sido alimentadas con el peso de la necesidad. ¿Hay algo que se escape a esta estructuración? Este es nuestro eón, el eón del cielo: hemos visto el cielo, y lo hemos enladrillado. ¿Alguien se sorprende todavía de que las células vivan en celdas, y de que un alma siempre habite en un convento? Nosotros somos los estructuradores, esta es nuestra estirpe. ¿Cuánto tiempo lleva esa estructura en el cielo? —_¿De qué cielo hablas?_
