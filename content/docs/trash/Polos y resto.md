@@ -18,6 +18,10 @@ weight = 1
 
 Este escrito es una porción de algo más grande: un intento de una izquierda antiplatónica y antimaniquea, de una izquierda, si se quiere, aristotélica o algo por el estilo. Básicamente, se trata de engendrar un mundo abierto, verdadera y sobre todo __realmente__ abierto. ¿Qué es un mundo realmente abierto? No es más que un mundo difícil de cerrar.
 
+¿Cómo se forma una izquierda verdaderamente antiplatónica? Nada que ver con aquella izquierda deforme y desfigurada, "líquida", "indefinida", "rizomática", que apenas llega a ser no-platónica. Esta izquierda no-platónica se queda, simplemente, con lo peor de Platón y sin Platón: el famoso y abominable "mundo aparente", ese sombrío error que, según Nietzsche, ha de caer al final de nuestra "historia de un error".
+
+¿Cómo puede caer Platón sin quedarnos atrapados en su lúgubre caverna? O, en palabras benjaminianas, ¿cómo puede politizarse la estética, sin que se estetice la política? El gran problema (esta es mi apuesta) reside en la cerrazón del __pléroma__, una cerrazón que no se resuelve simplemente suprimiendo la "regla de unidad" eidética o trascendental. El __pánta__ plurisensorial puede ser tan cerrado como el __hén__ monoracional. La solución (otra apuesta) no es suprimir la unidad, sino integrarla en la pluralidad. Esta integración es la que impide el cierre de la pluralidad en el __pléroma__.
+
 
 
 ## 0. Viuda de Desenladrilladores, e hijos
@@ -73,6 +77,8 @@ Aquí se encuentra a la vista la necesaria complementariedad (técnicamente se l
 ## 2. Los restos de la metafísica
 
 Filosofo es hoy un costurero. Remendar los andrajos de la libertad, el mundo hecho pedazos (Fichte), con el hilo de la necesidad. deber en kant, felicidad en Bentham, necesidades en Marx, fuerza en nietzsche, capacidades en Nussbaum... se trata de embridar la libertad, de amarrarla a alguna estaca, de aprovechar los restos en un nuevo "todo".
+
+Es el "todo" algo más que un sentimiento? "Sentimiento oceánico", sublimidad: totalidad-sin-límite.
 
 Dialéctica del resto: excreción sumativa (excedente de producción), evacuación sustractiva (diferencial), reservorio o reducto.
 
