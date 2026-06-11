@@ -16,7 +16,7 @@ weight = 1
 
 {{< space-title >}}
 
-Este escrito es una porción de algo más grande: un intento de una izquierda antiplatónica y antimaniquea, de una izquierda, si se quiere, aristotélica o algo por el estilo. Básicamente, se trata de engendrar un mundo abierto, verdadera y sobre todo __realmente__ abierto.
+Este escrito es una porción de algo más grande: un intento de una izquierda antiplatónica y antimaniquea, de una izquierda, si se quiere, aristotélica o algo por el estilo. Básicamente, se trata de engendrar un mundo abierto, verdadera y sobre todo __realmente__ abierto. ¿Qué es un mundo realmente abierto? No es más que un mundo difícil de cerrar.
 
 
 
