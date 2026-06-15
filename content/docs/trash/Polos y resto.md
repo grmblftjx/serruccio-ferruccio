@@ -16,11 +16,13 @@ weight = 1
 
 {{< space-title >}}
 
-Este escrito es una porción de algo más grande: un intento de una izquierda antiplatónica y antimaniquea, de una izquierda, si se quiere, aristotélica o algo por el estilo. Básicamente, se trata de engendrar un mundo abierto, verdadera y sobre todo _realmente_ abierto. ¿Qué es un mundo realmente abierto? No es más que un mundo difícil de cerrar.
+Expliquemos primero a qué pertenece esto. Este escrito es una porción de algo más grande: un intento de una izquierda antiplatónica y antimaniquea, de una izquierda, si se quiere, aristotélica o algo por el estilo. Básicamente, se trata de engendrar un mundo abierto, verdadera y sobre todo _realmente_ abierto. ¿Qué es un mundo realmente abierto? No es más que un mundo difícil de cerrar.
 
 ¿Cómo se forma una izquierda verdaderamente antiplatónica? Nada que ver con aquella izquierda deforme y desfigurada, "líquida", "indefinida", "rizomática", que apenas llega a ser no-platónica. Esta izquierda no-platónica se queda, simplemente, con lo peor de Platón y sin Platón: el famoso y abominable "mundo aparente", ese sombrío error que, según Nietzsche, ha de caer al final de nuestra "historia de un error".
 
 ¿Cómo puede caer Platón sin quedarnos atrapados en su lúgubre caverna? O, en palabras benjaminianas, ¿cómo puede politizarse la estética, sin que se estetice la política? El gran problema (esta es mi apuesta) reside en la cerrazón del _pléroma_, una cerrazón que no se resuelve simplemente suprimiendo la "regla de unidad" eidética o trascendental. El _pánta_ plurisensorial puede ser tan cerrado como el _hén_ monoracional. La solución (otra apuesta) no es suprimir la unidad, sino integrarla en la pluralidad. Esta integración es la que impide el cierre de la pluralidad en el _pléroma_.
+
+El _pánta_ plurisensorial está trazado con estadística y probabilidad. Nuestra abertura es el caos dentro de esta estadística, un auténtico clinamen. Esto implica una idea diferente de libertad: no la kantiana forma "libertad y autonomía y razón y ley y universalidad y totalidad", sino la libertad como la posibilidad de escurrirse, de resbalar hasta encontrar algún resquicio (el auténtico concepto de libertad de la tercera antinomia, el resquicio de la causalidad). Que siempre haya un subproducto, que siempre haya un margen de error: he ahí la libertad.
 
 
 
