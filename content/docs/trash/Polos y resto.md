@@ -16,9 +16,16 @@ weight = 1
 
 {{< space-title >}}
 
-Expliquemos primero a qué pertenece esto. Este escrito es una porción de algo más grande: un intento de una izquierda antiplatónica y antimaniquea, de una izquierda, si se quiere, aristotélica o algo por el estilo. Básicamente, se trata de engendrar un mundo abierto, verdadera y sobre todo _realmente_ abierto. ¿Qué es un mundo realmente abierto? No es más que un mundo difícil de cerrar.
+Este documento es una porción de un intento más amplio: el intento de una izquierda antiplatónica y antimaniquea, de una izquierda (no estoy muy seguro de lo que voy a decir) aristotélica o algo por el estilo. Básicamente, se trata de dar a luz a un mundo abierto, verdadera y sobre todo _realmente_ abierto. ¿Qué es un mundo realmente abierto? Pues no es más que un mundo difícil de cerrar. Este documento solamente sienta las bases.
 
-¿Cómo se forma una izquierda verdaderamente antiplatónica? Nada que ver con aquella izquierda deforme y desfigurada, "líquida", "indefinida", "rizomática", que apenas llega a ser no-platónica. Esta izquierda no-platónica se queda, simplemente, con lo peor de Platón y sin Platón: el famoso y abominable "mundo aparente", ese sombrío error que, según Nietzsche, ha de caer al final de nuestra "historia de un error".
+La izquierda platónica y maniquea necesita pocas presentaciones. [...]
+
+¿Cómo se forma una izquierda verdaderamente antiplatónica? Existen dos vías. La primera vía ya se ha intentado. Consiste en eliminar la "parte platónica" de Platón. Platón divide la realidad en dos: el mundo trascendente y el mundo inmanente, las ideas y las apariencias. Lo que se propuso fue derrocar el mundo trascendente, abolir las ideas (la "parte platónica" de Platón, su lugar favorito), y quedarse en el mundo inmanente de las apariencias, la parte rechazada y menospreciada de Platón. Esta primera vía es una reapropiación destitutiva e interesada del platonismo.  [...]
+
+
+
+No se trata de aquella izquierda deforme y desfigurada, "líquida", "indefinida", "rizomática". Aquella izquiera apenas llega a ser no-platónica. Niega meramente a Platón, pero no alcanzan nada más que a Platón. No nace nada nuevo de ahí. Aquella izquierda no-platónica se queda, simplemente, con lo peor de Platón y sin Platón. Nietzsche ya lo explicó de sobras en su relato de la "Historia de un error" (_El crepúsculo de los ídolos_): una vez desechada la trascendencia del "más allá", Platón ingresa en el cringe y los espíritus libres montan jaleo... ¿pero qué queda? ¿El "más acá", la inmanencia? Eso todavía sigue siendo Platón. [...]
+el famoso y abominable "mundo aparente", ese sombrío error que, según Nietzsche, ha de caer al final de nuestra "historia de un error".
 
 ¿Cómo puede caer Platón sin quedarnos atrapados en su lúgubre caverna? O, en palabras benjaminianas, ¿cómo puede politizarse la estética, sin que se estetice la política? El gran problema (esta es mi apuesta) reside en la cerrazón del _pléroma_, una cerrazón que no se resuelve simplemente suprimiendo la "regla de unidad" eidética o trascendental. El _pánta_ plurisensorial puede ser tan cerrado como el _hén_ monoracional. La solución (otra apuesta) no es suprimir la unidad, sino integrarla en la pluralidad. Esta integración es la que impide el cierre de la pluralidad en el _pléroma_.
 
