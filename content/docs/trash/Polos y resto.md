@@ -219,4 +219,7 @@ Mark Fisher. "Flatlines"
 La URSS, "En verdad", _+_ (2022)
 
 
+«Em "El Moisés de Miguel Ángel", [Freud] describe el método de Morelli [historiador del arte] como «estrechamente  relacionado con la técnica del psicoanálisis. También él está acostumbrado al divino secreto y a las cosas que se hallan ocultas en los rasgos desdeñados  o inadvertidos, en el montón de desperdicios, por así decirlo, de nuestras observaciones». En opinión de [el historiador Carlo] Ginzburg, [el detective Sherlock] Holmes completa el triángulo»
+— Sadie Plant (2001). _Escrito con drogas_, Destino: Barcelona, p. 112
+
 
