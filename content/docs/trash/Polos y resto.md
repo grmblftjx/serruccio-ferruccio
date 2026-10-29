@@ -167,8 +167,7 @@ La metafísica del resto se opone a ambas.
 
 La metafísica del brillo y de la pulcritud afirma: _detrita incognita_, los residuos son desconocidos, y lo desconocido es solo un resto, una _sombra_... _voi-là, Platon !_ La metafísica del resto responde: _detrita cognita_, los residuos son conocidos; los conocimientos son residuos. Es evidente que la agnotología (la ciencia de la producción de la ignorancia) se practica al son de la gnoseología (la ciencia de la producción del conocimiento); debiera, aún más, inaugurarse de una vez la _gnotología_, una visión del mismo conocimiento como entidad residual, concibiéndose al fin y al cabo tanto la sombra como la luz en términos de subproducto.
 
-izquierda antiplatonica
-los dos extremos de la herradura
+Máz arriba se habló de una izquierda antiplatónica, pero no está claro qué pueda ser esto dentro de la distribución maniquea del espectro político entre la "izquierda" y la "derecha", palabras a un tiempo modernas y ya anticuadas. Remontándonos al origen de ambos términos en la Revolución Francesa, asistiríamos a la aparición de un cuerpo político excretado (los _sans-culottes_) a partir de los restos de la vieja sociedad (los reaccionarios), de manera que "izquierda" y "derecha" son dos corresiduos del Antiguo Régimen, igual que lo fueron la cabeza y el cuerpo de Luis XVI. Paulatinamente, el paso de los siglos ha ido solidificando y coagulando un núcleo integrista, el "centro", que se erige en fundamento de la democracia. Tal vez, la izquierda antiplatónica se corresponda a esparcir las excreciones de este quiste centrista, a ambos extremos de la herradura: futuristas y nostálgicos, cenetistas y falangistas, _Gillets Jaunes_, _casseurs_ y _black blocks_. Tal vez sea una izquierda más allá de la izquierda, que arrincone al centro sobre sí mismo hasta convertirlo en un resto.
 
 
 
