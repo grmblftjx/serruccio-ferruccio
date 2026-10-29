@@ -167,6 +167,8 @@ La metafísica del resto se opone a ambas.
 
 La metafísica del brillo y de la pulcritud afirma: _detrita incognita_, los residuos son desconocidos, y lo desconocido es solo un resto, una _sombra_... _voi-là, Platon !_ La metafísica del resto responde: _detrita cognita_, los residuos son conocidos; los conocimientos son residuos. Es evidente que la agnotología (la ciencia de la producción de la ignorancia) se practica al son de la gnoseología (la ciencia de la producción del conocimiento); debiera, aún más, inaugurarse de una vez la _gnotología_, una visión del mismo conocimiento como entidad residual, concibiéndose al fin y al cabo tanto la sombra como la luz en términos de subproducto.
 
+izquierda antiplatonica
+los dos extremos de la herradura
 
 
 
