@@ -19,7 +19,7 @@ https://drive.google.com/file/d/1gf2lkTW2Dy8Iy22i6omRnGLNCkK-H1M2/view
 
 La publicación, en 2026, de _Ontología mínima_ y del _Manifiesto antifundacionalista_ por [Hugo Reyne](https://hugoreyne.carrd.co) es motivo generativo de alegría (o, mejor dicho, motivo de alegría generalizada) en el panorama del pensamiento gallego y español. No todos los días (quizá ni siquiera todos los años) se lanza uno de nuestros jóvenes paisanos a la aventura de embarcarse en el mar bravío y sórdido de la metafísica especulativa, una decisión con más riesgos que beneficios y menos garantías que castigos. Es posible que la boga actual de la autoedición y la escritura automatizada en nuestro país entregue muchos más escritores amateur a los tentáculos de este amante infiel y venenoso que es la especulación metafísica. En cualquier caso, de momento, tenemos aquí a uno que, al parecer, aún colea y respira. Tuve la suerte de coincidir con este autor un par de años, en la Facultad de Mazarelos; él, ahora, ha tenido la mala suerte de que su obra ha llamado a las puertas de mi atención. Y, como hemos dicho que en esto de la cerebración trascendental se encuentran más palos que pelas, aquí va mi contribución a su causa. Que no se diga.
 
-###Que si no es posible reducirlo todo a un todo
+### Que si no es posible reducirlo todo a un todo
 
 2.2, p. 16: «la cadena lógica que advierte la estructura exige, en sentido mínimo, una dualidad. Por definición, una estructura no puede ser un «Uno» homogéneo, pues no tendría límites, y eso iría en contra de lo ya dicho. Su heterogeneidad es, por tanto, negativamente deducida.»
 - De acuerdo
@@ -27,12 +27,12 @@ La publicación, en 2026, de _Ontología mínima_ y del _Manifiesto antifundacio
 2.2.1, pp. 17-18: «la estructura no es un todo, ni goza de anterioridad o posterioridad en la distribución de sus partes. La mereología presupone y proyecta un resultado en la composición entre todo y partes; la ontología mínima, sin embargo, no puede dar cuenta de algo de una relación (_sic_) que no es constatada de partida. Más aún: la ontología problematiza y sospecha de la sanción que convierte a la estructura en un todo compuesto antes incluso de resolver el problema de recomposición que plantea. Se advierte en la mereología, finalmente, una tendencia totalizante que busca el cierre mediante la búsqueda de una lógica composicional, postulando una relación positiva entre el todo y sus partes, pero que sin embargo queda desactivada en tanto esta relación es desarticulada y subsumida como función estructural.»
 - De acuerdo
 
-###Que si el funcionamiento no se distingue de la infraestructura
+### Que si el funcionamiento no se distingue de la infraestructura
 
 1.1, p. 8: «se advierte una diferencia de planos. El plano de lo que hay, del puro haber aproblemático, frente al plano de lo apofántico o contingente; el plano de lo ontológico frente al plano de lo explicativo. Lo segundo puede ser afirmado o negado; lo primero, solamente constatado.»
 - Innecesariamente dualista, platónico, parmenídeo. La esclerotización de la glándula. Lo que hay es apofántico y contingente, excreción. Lo ontológico es explicación causal. La constatación puede ser afirmada o negada. Semejante oposición, por tanto, no existe. Es necesaria una propuesta, no para fijar los límites y las oposiciones, sino para dar cuenta de que tales límites no son tales, o al menos no lo son absolutamente; un planteamiento que no solo comprenda A y B, que A no es B y que B no es A, sino también aquel complicado caso en que resulta que _A es B en cierto modo_, y no pasa nada. Que tal planteamiento es posible que no sea una ontología, sino una desontología.
 
-###Que si ningún límite es irrebasable
+### Que si ningún límite es irrebasable
 
 2.3, p. 20: «La negatividad es inherente al límite al ser propia de ella la no-realización. La metafísica, por lo contrario, exige realizarse mediante el obstáculo, pues solo así puede instituirse sentido, promesa o vía, justificándose así su necesidad de superación. El límite, no obstante, no se dedica a impulsar, sino que se limita a _detener_. La negatividad del límite no es un momento de un proceso o el paso hacia una síntesis, ni tampoco el motor de un devenir; es una _negatividad no-dialéctica_.»
 - Realidad inherentenente negativa, por su definición de apofántica "respecto de" lo que se puede constatar, afirmar o negar... Absurda irreferencialidad de un límite sin límite, de un "punto 0", de un numeral sin número! Absurdo argumento adialéctico contra la dialéctica, basado en la noción unilateralmente negativa de límite: y la porosidad? y la transgresión? y la ruptura? la porosidad no es una oposición dialéctica contra el obstáculo, sino una constitución del límite mismo! por una metafísica porosa, y contra una ontología estanca.
@@ -49,7 +49,7 @@ Sobre la muerte: «hay un término que no puede ser incorporado a ningún relato
 «Dios no crea la estructura; es la estructura la que constriñe a Dios» (p. 54)
 - Efectivamente, habría que decir con Feuerbach que "Dios es resultado". Sin entrar en alienaciones y sus complejidades, esta afirmación dominica que pone a Dios contra las cuerdas de la "razón" (orden de condiciones no condicionadas, según la definición de "estructura" que ofrece el Glosario del texto) omite de nuevo una parte del problema: la impulsividad de Dios, su insaciabilidad, su desmesura, su celo de _hybris_, su sed de sangre, su incontinencia en el amor, su fuerza seminal. ¿Qué hay de todo este componente, vitalista si se quiere, de la realidad, de sobra presente en innumerables teologías? ¿Dónde cabe esta fuerza ciega en la estructura racional de la ontología mínima?
 
-###Que si el resto no existe
+### Que si el resto no existe
 
 
 
