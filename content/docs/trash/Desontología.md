@@ -17,7 +17,8 @@ https://hugoreyne.carrd.co/
 
 https://drive.google.com/file/d/1gf2lkTW2Dy8Iy22i6omRnGLNCkK-H1M2/view
 
-La publicación, en 2026, de _Ontología mínima_ y del _Manifiesto antifundacionalista_ por [[https://hugoreyne.carrd.co| Hugo Reyne]] es motivo de alegría generativa o, mejor dicho, generalizada en el panorama del pensamiento gallego y español. 
+La publicación, en 2026, de _Ontología mínima_ y del _Manifiesto antifundacionalista_ por es motivo de alegría generativa o, mejor dicho, generalizada en el panorama del pensamiento gallego y español. 
+ [[https://hugoreyne.carrd.co|Hugo Reyne]] 
 
 Hugo Reyne, 2026 (2a edición)
 2.2, p. 16: «la cadena lógica que advierte la estructura exige, en sentido mínimo, una dualidad. Por definición, una estructura no puede ser un «Uno» homogéneo, pues no tendría límites, y eso iría en contra de lo ya dicho. Su heterogeneidad es, por tanto, negativamente deducida.»
